@@ -2,6 +2,9 @@
 **Simple PHP File Uploader to FTP with User Login**  
 by Tom Salaj
 
+![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Made with PHP](https://img.shields.io/badge/Made%20with-PHP-blue?logo=php)
+
 ---
 
 ## 🧰 What is it?
