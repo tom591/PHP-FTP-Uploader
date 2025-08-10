@@ -2,8 +2,8 @@
 **Simple PHP File Uploader to FTP with User Login**  
 by Tom Salaj
 
-![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Made with PHP](https://img.shields.io/badge/Made%20with-PHP-blue?logo=php)
+[![Made with PHP](https://img.shields.io/badge/Made%20with-PHP-blue?logo=php)](https://www.php.net/)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/tom591/PHP-FTP-Uploader?tab=MIT-1-ov-file)
 
 ---
 
