@@ -66,19 +66,16 @@ Do **not** use it in production environments without applying proper security pr
 
 ---
 
-## 🪪 License
+## 📝 License
 
-MIT License — you're free to:
-
-- ✅ use it  
-- ✅ modify it  
-- ✅ extend it  
-
-See the full [LICENSE](LICENSE) file for details.
+This project is released under the [MIT License](LICENSE).  
+Use freely, modify as needed. No warranty provided.
 
 ---
 
 ## 🚀 Final Words
+Learn, code, enjoy — good luck!
+Tom Salaj
 
-Learn, code, enjoy — good luck!  
-**Tom Salaj**
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20Me%20a%20Coffee&emoji=☕&slug=tomsalaj&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/tomsalaj)
+---
