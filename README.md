@@ -1,5 +1,4 @@
 # 📂 PHP-FTP-Uploader  
-**Simple PHP File Uploader to FTP with User Login**  
 by Tom Salaj
 
 [![Made with PHP](https://img.shields.io/badge/Made%20with-PHP-blue?logo=php)](https://www.php.net/)
@@ -8,7 +7,7 @@ by Tom Salaj
 ---
 
 ## 🧰 What is it?
-
+**Simple PHP File Uploader to FTP with User Login**  
 A minimalist PHP tool to upload files to an FTP server – with your own username and password, no database needed.
 
 Designed for **learning purposes**, personal tools, or quick internal solutions.
